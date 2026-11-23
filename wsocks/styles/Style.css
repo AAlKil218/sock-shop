@@ -1,0 +1,17 @@
+header{
+    background-color: #0b5eab;
+    color:#000000;
+}
+
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #000000;
+}
+
+<section class="col-6">
+
+.col-6{ 
+    padding: 25px;
+    float: left;
+    width: 50;
+}
